@@ -3,7 +3,7 @@
 Course website: [6.5840: Distributed Systems](https://pdos.csail.mit.edu/6.824/index.html)
 
 - [x] **Lab 1: MapReduce**
-- [] **Lab 2: Key/Value Server**
+- [ ] **Lab 2: Key/Value Server**
 - [ ] **Lab 3: Raft Consensus Algorithm**
   - [ ] Lab 3A: Raft Leader Election
   - [ ] Lab 3B: Raft Log Entries Append
